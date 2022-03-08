@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+/*# sourceMappingURL=style.css.map */
+.borderRouge{
+    border: 1px solid red;
+    height: 30px;
+
+}
+.borderVert{
+    border: 1px solid green;
+    height: 30px;
+
+}
+.borderJaune{
+    border: 1px solid yellow;
+    height: 30px;
+
+}
